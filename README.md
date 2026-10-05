@@ -20,9 +20,10 @@ ADAS System Engineer with 6+ years of cross-functional experience across Automot
 
 ---
 ## Technical Toolchain
-* **Modeling & Simulation:** MATLAB, Simulink, Stateflow, Simscape
-* **Software Generation & Testing:** Embedded Coder (C-Code Gen, SIL), Software Architecture, Requirements Traceability
-* **Automotive Communication & Diagnostics:** CAN, CAN-FD, LIN, Automotive Ethernet, Vector CANoe, Wireshark
-* **Automation & Scripting:** Python ('cantools', CSV, C-code generation) 
-* **Standards & Processes:** ISO 26262, ASPICE, Functional Safety Concepts
-* **Embedded Software & Version Control:** Embedded C, ARM Cortex-M (STM32), Git, GitHub
+* **Modeling & Simulation:** MATLAB, Simulink, Stateflow, Simscape.
+* **Software Generation & Testing:** Embedded Coder (C-Code Gen, SIL), Software Architecture, Requirements Traceability.
+* **Automotive Communication & Diagnostics:** CAN, CAN-FD, LIN, Automotive Ethernet, Vector CANoe, Wireshark.
+* **Automation & Scripting:** Python ('cantools', CSV, C-code generation). 
+* **Standards & Processes:** ISO 26262 (Functional Safety , V-Model, MIL/SIL verification), Requirments Traceability, Defect Tracking 
+     and Root Cause analyis.
+* **Embedded Software & Version Control:** Embedded C, ARM Cortex-M (STM32), Git, GitHub.
